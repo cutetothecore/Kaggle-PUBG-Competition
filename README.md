@@ -1,5 +1,5 @@
 # Kaggle-PUBG-Competition
-This is a competition on kaggle. All dataset can be directly retrived on the competition's kernel. The dataset is really huge which contains over 4,000,000 rows, so I didn't upload it to my repositiry.
+This is a competition on kaggle. All training and testing dataset can be directly retrived from the competition's kernel. The dataset is really huge which contains over 4,000,000 rows, so I didn't upload it to my repositiry.
 
 ## Compeition Description
 So, where we droppin' boys and girls?
